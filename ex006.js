@@ -8,7 +8,6 @@ for (let cont = 1; cont < tamanhoArvore; cont++) {
   `${tamEsquerda = ' '.repeat(tamanhoArvore - cont).concat('*'.repeat(cont))}` +
   `${tamDireita += '*'.repeat(1)}`
  )
- /* console.log(tamDireita += `${'*'.repeat(1)}`) */
 }
 for (let cont = 1; cont < 3; cont++) {
 

@@ -9,7 +9,6 @@ function distanciaConvertida(distancia) {
  console.log(`${distancia * 10}dm`)
  console.log(`${distancia * 100}cm`);
  console.log(`${distancia * 1000}mm`);
-
 }
 
 distanciaConvertida(distanciaEmMetros);
